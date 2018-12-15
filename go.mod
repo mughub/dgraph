@@ -1,4 +1,4 @@
-module dgraph
+module github.com/mughub/dgraph
 
 require (
 	github.com/dgraph-io/dgo v0.0.0-20181206205721-b1500f3dce4c
